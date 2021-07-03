@@ -1,6 +1,6 @@
 package com.xworkz.aptitude.arrayMatrix;
 
-public class Example4 {
+public class LShapedMatrix {
 
 	public static void main(String[] args) {
 		int n=3;

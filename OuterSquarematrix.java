@@ -1,6 +1,6 @@
 package com.xworkz.aptitude.arrayMatrix;
 
-public class Example3 {
+public class OuterSquarematrix {
 
 	public static void main(String[] args) {
 
